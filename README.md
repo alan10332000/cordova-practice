@@ -1,4 +1,4 @@
-# vue-app
+# cordova-practice
 
 > A Vue.js project
 
